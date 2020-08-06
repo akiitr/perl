@@ -1,4 +1,4 @@
-#Perl QC Training
+# Perl QC Training
 
 1. one liner for perl unix execution: perl -e "print 1..10"
 2. grep -e 
